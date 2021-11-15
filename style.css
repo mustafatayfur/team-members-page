@@ -2,7 +2,6 @@
    margin: 0;
    padding: 0;
 }
-
 .rotate{
     transform: rotate(90deg);
     margin-left: -20px;
